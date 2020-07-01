@@ -1,7 +1,9 @@
+
 main > div {
     min-width: 200px;
     min-height: 120px;
     margin: 4px;
+    display: inline-block;
 }
 
 .first {
